@@ -23,7 +23,9 @@ This is a database application that allows the user to manipulate the database u
 
 Once you've downloaded the code open the zipped folder in an IDE.
 
-Then open the terminal, run 'node index' and answer the prompts. The readme will be generated in the dist folder.
+Then update the .env file with your information. Run 'mysql -u root -p' and run the schema file.
+
+After you can run 'npm run seed' and 'npm run start' to test it out with Insomnia.
 
 Video Walkthrough: [https://youtu.be/_VJAKmPghMY](https://youtu.be/_VJAKmPghMY)
 
